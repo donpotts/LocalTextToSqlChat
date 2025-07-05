@@ -83,8 +83,8 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/donpotts/LocalTextToSqlChat.git
+    cd LocalTextToSqlChat
     ```
 
 2.  **Run the application:**
